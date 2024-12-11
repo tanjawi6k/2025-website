@@ -1,0 +1,10 @@
+# Bloquer l'accès aux répertoires internes non nécessaires pour l'indexation
+User-agent: *
+Disallow: /src/
+Disallow: /node_modules/
+
+# Autoriser tout le reste
+Allow: /
+
+# Spécifier le sitemap (remplacez par l'URL de votre sitemap si vous en avez un)
+Sitemap: https://nsmobile-2025.netlify.app/sitemap.xml
