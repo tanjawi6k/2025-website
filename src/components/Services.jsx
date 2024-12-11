@@ -5,25 +5,25 @@ import { fadeIn, staggerContainer } from "../utils/motion"
 const services = [
   {
     name: "Maintenance",
-    icon: "../../images/icons/digitalmarketing.png",
+    icon: "../../images/icons/maintenance.svg",
     description:
       "Ordinateur, mobile de livraison ou téléphone de société, nous sommes là pour en assurer le bon fonctionnement !",
   },
   {
     name: "Service Web",
-    icon: "../../images/icons/webdevelopment.png",
+    icon: "../../images/icons/web.svg",
     description:
       "À la recherche d’un site web dernier cri, d’une application légère et innovante ? Nous nous engageons à vous fournir le meilleur !",
   },
   {
     name: "Service NFC",
-    icon: "../../images/icons/socialmedia.png",
+    icon: "../../images/icons/nfc.svg",
     description:
       "NSMobile développe des solutions NFC pour l’horeca, la logistique et le marketing, incluant Tech Cards, gestion de stock, et cartes de visite connectées.",
   },
   {
     name: "Sécurité",
-    icon: "../../images/icons/appdevelopment.png",
+    icon: "../../images/icons/security.svg",
     description:
       "NSMobile installe des systèmes de surveillance par caméras de dernière génération. Elles offrent une précision exceptionnelle pour des détails nets.",
   },
